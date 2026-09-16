@@ -1,5 +1,7 @@
 # Petal Wand
 
+**[Live Demo](https://petal-wand-bjpf.vercel.app/)**
+
 Petal Wand is an interactive web-based garden controlled by real-time hand gestures using your webcam. 
 
 Built with JavaScript, p5.js, and MediaPipe Hands, this application tracks your hand movements to create a dynamic visual garden. Plant vibrant flowers by pointing your index finger, or scatter the garden using an open-palm gesture!
